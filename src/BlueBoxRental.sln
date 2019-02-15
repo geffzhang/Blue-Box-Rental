@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueBoxRental.CustomerServi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueBoxRental.StaffServices", "BlueBoxRental.StaffServices\BlueBoxRental.StaffServices.csproj", "{1FE7C98F-2542-4FC6-B675-24567D4E4B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueBoxRental.RentalServices", "BlueBoxRental.RentalServices\BlueBoxRental.RentalServices.csproj", "{A90772A4-BD20-4632-BEB6-830D7F536EA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueBoxRental.RentalServices", "BlueBoxRental.RentalServices\BlueBoxRental.RentalServices.csproj", "{A90772A4-BD20-4632-BEB6-830D7F536EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueBoxRental.DemoServices", "BlueBoxRental.DemoServices\BlueBoxRental.DemoServices.csproj", "{856B5362-D75C-4B25-88A3-339C175931BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A90772A4-BD20-4632-BEB6-830D7F536EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90772A4-BD20-4632-BEB6-830D7F536EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90772A4-BD20-4632-BEB6-830D7F536EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856B5362-D75C-4B25-88A3-339C175931BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856B5362-D75C-4B25-88A3-339C175931BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856B5362-D75C-4B25-88A3-339C175931BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856B5362-D75C-4B25-88A3-339C175931BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

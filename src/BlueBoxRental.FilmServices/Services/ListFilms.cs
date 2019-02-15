@@ -34,5 +34,6 @@ namespace BlueBoxRental.FilmServices.Services
                 log.LogInformation("ListFilms function has finished processing a request.");
             }
         }
+
     }
 }
